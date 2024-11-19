@@ -1,5 +1,5 @@
 ### 👋 Hi there! I’m Vishal Singh
-#### Machine Learning Engineer | Data Science Explorer | Automating "What Ifs" *(because who has time for manual if-else)*
+#### Machine Learning Engineer | Data Science Explorer | Automating "What Ifs" *(because who has time for manual ifs)*
 
 #### A Bit About Me:
 * I believe every dataset hides a story—my mission? *Help it speak, preferably in Python*
