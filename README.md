@@ -1,7 +1,6 @@
 ### 👋 Hi, there ! I’m Vishal Singh
 
-#### 🤖 Machine Learning Enthusiast | 🧠 Data Science Explorer | 💡 Automating "What Ifs" 
-*(because who has time for manual ifs?)*
+#### 🤖 Machine Learning Enthusiast | 🧠 Data Science Explorer | 💡 Automating "What Ifs" *(because who has time for manual ifs?)*
 
 #### A Little About Me:
 
