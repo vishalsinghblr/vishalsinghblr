@@ -1,6 +1,7 @@
 ### 👋 Hi, there ! I’m Vishal Singh
 
-#### 🤖 Machine Learning Enthusiast | 🧠 Data Science Explorer | 💡 Automating "What Ifs" (because who has time for manual ifs?)
+#### 🤖 Machine Learning Enthusiast | 🧠 Data Science Explorer | 💡 Automating "What Ifs" 
+*(because who has time for manual ifs?)*
 
 #### A Little About Me:
 
@@ -14,7 +15,7 @@
 * 🤝 Collaborate with like-minded data nerds to create beautiful chaos.
 
 #### Connect with Me:
-💬 Always up for discussing ML, data, or why gradient descent keeps spiraling into madness.
-⭐ Let’s make GitHub a little smarter—one commit at a time!
+* 💬 Always up for discussing ML, data, or why gradient descent keeps spiraling into madness.
+* ⭐ Let’s make GitHub a little smarter—one commit at a time!
 
 *PS: My models are 90% accurate. The 10%? They're just being creative.*
