@@ -1,4 +1,5 @@
-### 👋 Hi there! I’m Vishal Singh
+### Hi there ! I’m Vishal Singh
+
 #### Machine Learning Engineer | Data Science Explorer | Automating "What Ifs" *(because who has time for manual ifs)*
 
 #### A Bit About Me:
